@@ -286,6 +286,7 @@ button {
     font-weight: normal;
     line-height: 16px;
     margin: 90px 5px 0px 5px ;
+    cursor: pointer;
 }
 
 .active_page {
