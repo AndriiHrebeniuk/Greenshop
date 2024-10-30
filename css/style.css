@@ -154,7 +154,7 @@ nav ul li a:hover {
         font-weight: 700;
         line-height: 20.11px;
         border-bottom: #46A358 solid 3px;
-        padding-bottom: 23px;
+        padding-bottom: 21px;
 }
 
 
@@ -180,7 +180,7 @@ nav ul li a:hover {
 }
 
 .link_PlantCare {
-    min-width: 74px;
+    min-width: 78px;
 }
 
 .link_Blogs {
@@ -225,7 +225,7 @@ nav ul li a:hover {
     right: 20px;
 }
 
-main {
+.first_content {
     font-size: 0px;
     width: 100%;
     max-width: 1200px;
@@ -247,7 +247,7 @@ main {
     margin: 70px 0px 0px 43px;
 }
 
-.first_main_text {
+.first_paragraph {
     font-size: 14px;
     font-weight: 500;
     line-height: 16px;
@@ -258,7 +258,7 @@ main {
     padding-bottom: 7px;
 }
 
-h1 {
+.first_main_text {
     font-weight: 900;
     font-size: 70px;
     line-height: 70px;
@@ -266,10 +266,6 @@ h1 {
     width: 530px;
     min-height: 140px;
     padding-bottom: 5px;
-}
-
-span {
-    color: #46A358;
 }
 
 .second_main_text {
