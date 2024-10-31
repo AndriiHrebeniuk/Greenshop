@@ -135,14 +135,14 @@ body {
 font-family: Cera Pro;
 }
 
-header {
+.second_content {
     width: 100%;
     max-width: 1202px;
     margin: 0 auto;
     margin-bottom: 138px;
 }
 
-h2 {
+.overview {
         font-size: 18px;
         font-weight: bold;
         line-height: 24px;
@@ -153,11 +153,11 @@ h2 {
         padding-bottom: 9px;
 }
 
-h2, p {
+.overview, .overview_text {
     padding-right: 30px;
 }
 
-p {
+.overview_text {
         font-size: 14px;
         font-weight: normal;
         line-height: 24px;
@@ -188,7 +188,7 @@ p {
     width: 257px;
 }
 
-button {
+.find_more {
     width: 140px;
     height: 40px;
     color: #FFFFFF;
@@ -200,7 +200,7 @@ button {
     text-align: center;
 }
 
-button:hover {
+.find_more:hover {
     cursor: pointer;
 }
 
@@ -208,7 +208,7 @@ button:hover {
     margin-right: 25px;
 }
 
-h1 {
+.big_main_text {
         font-size: 30px;
         font-weight: bold;
         text-align: center;
@@ -216,7 +216,7 @@ h1 {
         padding-bottom: 15px;
 }
 
-main {
+.container_article {
     width: 100%;
     max-width: 1202px;
     margin: 0 auto;
@@ -265,7 +265,7 @@ color: #727272;
         padding-bottom: 9px;
 }
 
-a {
+.read_more_link {
     width: 89px;
     height: 17px;
     font-size: 14px;
@@ -276,15 +276,15 @@ a {
     padding-bottom: 12px;
 }
 
-a:hover {
+.read_more_link:hover {
     color: #46A358;
 }
 
-section {
+.section_article {
     display: flex;
     justify-content: space-between;
 }
 
-article {
+.article_container {
     background: #FBFBFB;
 }
